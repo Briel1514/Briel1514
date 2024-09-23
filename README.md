@@ -1,12 +1,10 @@
 ## Seja bem vindo ao meu git
 
-<!--
-**Briel1514/Briel1514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - me chamo Gabriel Tokarski e estou iniciando minha caminhada agora pelo github dia 23 de setembro
-
+- Estudo dentro dos limites do planeta terra
+- E Gosto bastante de tecnologia
 
  **Para entrar em  contado comigo** 
 
-
-![](https://media1.tenor.com/m/RmjQujZby3MAAAAd/oin-oindao.gif)
+![](https://media1.tenor.com/m/coMS8OusPQ8AAAAd/senna-lotus.gif)
