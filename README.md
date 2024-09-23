@@ -5,4 +5,8 @@
 
 - me chamo Gabriel Tokarski e estou iniciando minha caminhada agora pelo github dia 23 de setembro
 
-## Para entrar em  contado comigo 
+
+ **Para entrar em  contado comigo** 
+
+
+![](https://media1.tenor.com/m/RmjQujZby3MAAAAd/oin-oindao.gif)
