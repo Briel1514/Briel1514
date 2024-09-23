@@ -2,7 +2,7 @@
 
 
 - Me chamo Gabriel Tokarski e estou iniciando minha caminhada agora pelo github dia 23 de setembro
-- 📍Brasil-Parana
+- 📌Brasil-Parana
 
 -  Gosto bastante de tecnologia
 -  Meu prósito aqui é  ajudar as pessoas que tem interrese em jogos de playstation 3 , funcionalidades do video game etc
